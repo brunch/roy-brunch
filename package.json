@@ -1,6 +1,6 @@
 {
   "name": "roy-brunch",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Adds Roy support to brunch.",
   "author": "Paul Miller (http://paulmillr.com/)",
   "homepage": "https://github.com/brunch/roy-brunch",
@@ -15,12 +15,8 @@
     "test": "node setup.js test",
     "postinstall": "node setup.js postinstall"
   },
-  "engines": {
-    "node": "~0.6.10 || 0.8 || 0.9"
-  },
   "dependencies": {
-    "coffee-script": "1.4.0",
-    "roy": "0.1.5"
+    "roy": "~0.1.x"
   },
   "devDependencies": {
     "mocha": "1.8.1",
