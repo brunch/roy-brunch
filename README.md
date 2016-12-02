@@ -3,7 +3,7 @@ Adds [Roy](http://roy.brianmckenna.org/) support to
 [brunch](http://brunch.io).
 
 ## Usage
-Install the plugin via npm with `npm install --save roy-brunch`.
+Install the plugin via npm with `npm install --save-dev roy-brunch`.
 
 Or, do manual install:
 
